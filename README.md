@@ -13,17 +13,6 @@
 
 </div>
 
----
-
-## `> About`
-
-```
-Nome    : Vagner Michell
-Função  : Data Enginner @ FIS
-Foco    : Data Pipelines, automations & BI tools
-```
-
----
 
 ## `> stack --list`
 
