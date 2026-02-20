@@ -41,10 +41,10 @@
 
 ```python
 conquistas = {
-    "automação":   "Processo de 3h → 5min com logs + dashboard",
-    "SSOT":        "Reduziu 90% o tempo de apuração de KPIs",
-    "modernização":"Eliminou 100% das extrações manuais (VBA → ETL)",
-    "integração":  "Power BI + Power Automate → alertas no Teams",
+    "automação":   "3 hours o'clock → 5min with logs + dashboard",
+    "SSOT":        "Reduced in 90% the time of get apurationde KPIs",
+    "modernização":"Excluded 100% of manual extract (VBA → ETL)",
+    "Integration":  "Power BI + Power Automate → alerts on Teams",
 }
 ```
 
@@ -53,7 +53,31 @@ conquistas = {
 ## `> contact`
 
 ```bash
-$ echo "Vamos construir algo escalável juntos?"
+$ echo "Let's go build something scalable tougher? 
+> Let's go build something scalable tougher? 
+
+$ open linkedin.com/in/michellvagner
+```
+
+---
+
+<div align="center">
+
+*Made with ☕ and many pipelines*
+
+</div>
+
+$ open linkedin.com/in/michellvagner
+```
+
+---
+
+<div align="center">
+
+*Made with ☕ and many pipelines*
+
+</div>
+?"
 > Vamos construir algo escalável juntos?
 
 $ open linkedin.com/in/michellvagner
