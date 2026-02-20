@@ -77,16 +77,3 @@ $ open linkedin.com/in/michellvagner
 *Made with ☕ and many pipelines*
 
 </div>
-?"
-> Vamos construir algo escalável juntos?
-
-$ open linkedin.com/in/michellvagner
-```
-
----
-
-<div align="center">
-
-*Feito com muito ☕ e muitos pipelines*
-
-</div>
