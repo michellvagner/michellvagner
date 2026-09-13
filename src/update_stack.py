@@ -310,9 +310,9 @@ def generate_markdown(stats, total_repositories):
         bar = make_bar(percentage)
 
         lines.append(
-            f"**{technology:<16}** "
+            f"**{technology}** "
             f"`{bar}` **{percentage}%** "
-            f"({count}/{total_repositories})"
+            f"({count}/{total_repositories})<br>"
         )
 
     return "\n".join(lines)
