@@ -25,7 +25,7 @@ jobs:
       - name: Update stack stats
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python scripts/update_stack.py
+        run: python src/update_stack.py
 
       - name: Commit README
         run: |
