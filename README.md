@@ -39,9 +39,21 @@
 ## `> stack --usage`
 
 <!-- STACK_USAGE_START -->
+**15 repositórios analisados**
 
-Calculating...
+> Percentual de repositórios que utilizam cada tecnologia.
+> Um projeto pode utilizar várias tecnologias.
 
+**Python          ** `███████████████░░░░░` **73%** (11/15)
+**SQL             ** `███████████░░░░░░░░░` **53%** (8/15)
+**Snowflake       ** `█████░░░░░░░░░░░░░░░` **27%** (4/15)
+**GitHub Actions  ** `███░░░░░░░░░░░░░░░░░` **13%** (2/15)
+**Terraform       ** `███░░░░░░░░░░░░░░░░░` **13%** (2/15)
+**Docker          ** `█░░░░░░░░░░░░░░░░░░░` **7%** (1/15)
+**Airflow         ** `█░░░░░░░░░░░░░░░░░░░` **7%** (1/15)
+**dbt             ** `█░░░░░░░░░░░░░░░░░░░` **7%** (1/15)
+**Power BI        ** `█░░░░░░░░░░░░░░░░░░░` **7%** (1/15)
+**AWS             ** `█░░░░░░░░░░░░░░░░░░░` **7%** (1/15)
 <!-- STACK_USAGE_END -->
 
 ---
