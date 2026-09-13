@@ -35,6 +35,15 @@
 ![Power Automate](https://img.shields.io/badge/-Power_Automate-0a0a0a?style=flat-square&logo=powerautomate&logoColor=E07060)
 ![Tableau](https://img.shields.io/badge/-Tableau-0a0a0a?style=flat-square&logo=tableau&logoColor=E07060)
 
+
+## `> stack --usage`
+
+<!-- STACK_USAGE_START -->
+
+Calculating...
+
+<!-- STACK_USAGE_END -->
+
 ---
 
 ## `> highlights`
